@@ -19,7 +19,7 @@ function Queue() {
               icon={Icon.Repeat}
               title="Refresh"
               onAction={async () => queueRevalidate()}
-              shortcut={{ modifiers: ["cmd"], key: "r" }}
+              shortcut={Keyboard.Shortcut.Common.Refresh}
             />
           </ActionPanel>
         }
@@ -39,7 +39,7 @@ function Queue() {
                 icon={Icon.Repeat}
                 title="Refresh"
                 onAction={async () => queueRevalidate()}
-                shortcut={{ modifiers: ["cmd"], key: "r" }}
+                shortcut={Keyboard.Shortcut.Common.Refresh}
               />
             </ActionPanel>
           }
