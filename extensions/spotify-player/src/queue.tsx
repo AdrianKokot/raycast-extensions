@@ -1,4 +1,4 @@
-import { Action, ActionPanel, Icon, List } from "@raycast/api";
+import { Action, ActionPanel, Icon, Keyboard, List } from "@raycast/api";
 import { View } from "./components/View";
 import TrackListItem from "./components/TrackListItem";
 import EpisodeListItem from "./components/EpisodeListItem";
