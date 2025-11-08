@@ -40,7 +40,8 @@
     "karthik_manikandan",
     "kartheesan05",
     "joshkat",
-    "CaffeineCat"
+    "CaffeineCat",
+    "AdrianKokot"
   ],
   "pastContributors": [
     "bkeys818",
@@ -768,6 +769,7 @@
     ]
   },
   "platforms": [
-    "macOS"
+    "macOS",
+    "Windows"
   ]
 }
