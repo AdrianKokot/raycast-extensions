@@ -1,6 +1,6 @@
 # Spotify Player Changelog
 
-## [Add Windows support] - {PR_MERGE_DATE}
+## [Add Windows support] - 2025-11-14
 
 - Added Windows to platforms
 - Added check for not running menu bar commands on Windows
